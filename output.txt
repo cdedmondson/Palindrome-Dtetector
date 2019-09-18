@@ -1,0 +1,16 @@
+Line 1 is a palindrome
+Line 2 is a palindrome
+Line 3 is a palindrome
+Line 4 is not a palindrome
+Line 5 is a palindrome
+Line 6 is a palindrome
+Line 7 is a palindrome
+Line 8 is not a palindrome
+Line 9 is a palindrome
+Line 10 is a palindrome
+Line 11 is a palindrome
+Line 12 is not a palindrome
+Line 13 is a palindrome
+Line 14 is a palindrome
+Line 15 is a palindrome
+
